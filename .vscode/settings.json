@@ -1,0 +1,9 @@
+{
+    "launch": {
+        "configurations": [],
+        "compounds": [],
+        "python.analysis.disabled": ["too-many-function-arguments", "parameter-missing"]
+    },
+    "python.pythonPath": "C:\\Users\\Pogonet\\anaconda3\\envs\\nnProject\\python.exe"
+    
+}
